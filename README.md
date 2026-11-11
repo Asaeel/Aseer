@@ -62,3 +62,7 @@ public/                 # Static assets
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details
+
+---
+
+تم عمل المشروع مع زميلتي [@reemfaiz](https://github.com/reemfaiz)
